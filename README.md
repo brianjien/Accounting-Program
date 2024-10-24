@@ -23,5 +23,10 @@ The program was developed using:
 - **JFreeChart**: For generating pie charts.
 - <img width="787" alt="image" src="https://github.com/user-attachments/assets/ca23909c-5b6e-4751-9f2d-18ff9bb98da3">
 
+# Project Name: Accounting-Program
+| Student Name | GitHub Username |
+|    :---:     |    :---:       |
+|Chih Lin Chien|    brianjien    |  GitHub             |
+Hsin Yu Chen |  shellychen1221 | 
 
 
